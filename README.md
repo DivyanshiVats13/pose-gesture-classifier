@@ -8,6 +8,8 @@ A real-time hand gesture recognition system using MediaPipe, Random Forest, and 
 
 ![Gesture Classifier Demo](demo.gif)
 
+![Confusion Matrix](confusion_matrix.png)
+
 ---
 
 ## Results
